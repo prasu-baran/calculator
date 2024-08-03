@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding:0px;
+    font-family: cursive;
+}
+body{
+    background:linear-gradient(to right,rgb(200, 205, 206),rgb(22, 214, 214));
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.box{
+    background-color: whitesmoke;
+    width:fit-content;
+    padding:50px;
+   
+}
+input{
+    padding:10px;
+}
+h1{
+    color:purple;
+}
+input[type="button"]{
+    background-color: blue;
+    color:bisque;
+}
+label{
+    color:blue;
+}
+#age{
+    color:blueviolet;
+}
